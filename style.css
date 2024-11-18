@@ -5,7 +5,7 @@
     text-decoration: none;
     list-style: none;
     font-family: Roboto;
-    flex-shrink: 0;
+    /* flex-shrink: 0; */
 }
 
 .top-head
